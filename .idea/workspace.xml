@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9dda9adf-75b6-4979-b17a-140cefff28ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lectures/part2oop/OOBasics.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/part2oop/MethodNotations.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -41,11 +41,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/OOBasics.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="58" column="14" lean-forward="true" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
+            <state relative-caret-position="166">
+              <caret line="53" column="3" lean-forward="true" selection-start-line="53" selection-start-column="3" selection-end-line="53" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/MethodNotations.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -68,6 +77,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>age</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -84,10 +98,11 @@
         <option value="$PROJECT_DIR$/src/lectures/part1basics/CBNvsCBV.scala" />
         <option value="$PROJECT_DIR$/src/lectures/part1basics/StringOps.scala" />
         <option value="$PROJECT_DIR$/src/lectures/part2oop/OOBasics.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part2oop/MethodNotations.scala" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="728" />
@@ -118,6 +133,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lectures" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="rock-the-jvm-scala-beginners" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemy_scala_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lectures" type="462c0819:PsiDirectoryNode" />
+              <item name="part2oop" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -125,7 +147,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559059612830" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559113477855" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -143,7 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OOBasics">
+  <component name="RunManager" selected="Application.MethodNotations">
     <configuration name="CBNvsCBV" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lectures.part1basics.CBNvsCBV" />
       <module name="rock-the-jvm-scala-beginners" />
@@ -170,8 +192,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OOBasics" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.OOBasics" />
+    <configuration name="MethodNotations" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.MethodNotations" />
       <module name="rock-the-jvm-scala-beginners" />
       <extension name="coverage">
         <pattern>
@@ -183,12 +205,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part1basics.Recursion" />
+    <configuration name="OOBasics" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.OOBasics" />
       <module name="rock-the-jvm-scala-beginners" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.part1basics.*" />
+          <option name="PATTERN" value="lectures.part2oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodNotations" />
         <item itemvalue="Application.OOBasics" />
         <item itemvalue="Application.StringOps" />
         <item itemvalue="Application.CBNvsCBV" />
         <item itemvalue="Application.DefaultArgs" />
-        <item itemvalue="Application.Recursion" />
       </list>
     </recent_temporary>
   </component>
@@ -330,8 +352,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/OOBasics.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="58" column="14" lean-forward="true" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
+        <state relative-caret-position="166">
+          <caret line="53" column="3" lean-forward="true" selection-start-line="53" selection-start-column="3" selection-end-line="53" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part2oop/MethodNotations.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
         </state>
       </provider>
     </entry>
